@@ -43,7 +43,7 @@ body {
     flex-wrap: wrap;
     border-radius: 1rem;
     padding: 1rem;
-    max-width: 22rem;
+    max-width: 20rem;
     text-align: center;
 
     box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.1);
@@ -57,14 +57,14 @@ body {
 }
 
 .qr_contain h2 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     padding: 1rem 1rem 0 1rem;
     font-weight: var(--font-weight-700);
     color: var(--slate-900);
 }
 
 .qr_contain p {
-    font-size: 1rem;
+    font-size: 0.86rem;
     font-weight: var(--font-weight-400);
     color: var(--slate-500);
     padding: 1rem;
